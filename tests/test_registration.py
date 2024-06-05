@@ -2,7 +2,8 @@
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.ui import WebDriverWait
 from conftest import *
-from data import *
+from helpers import *
+
 
 
 class TestRegistration:
