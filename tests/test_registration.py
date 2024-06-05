@@ -5,6 +5,7 @@ from conftest import *
 from helpers import *
 
 
+
 class TestRegistration:
 
     def test_registration_new_account_success_submit(self, driver):

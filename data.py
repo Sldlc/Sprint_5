@@ -1,3 +1,4 @@
+
 class UserAuthData:
 
     my_email = 'avanesov_vadim_9_123@yandex.ru'
